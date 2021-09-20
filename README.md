@@ -12,13 +12,13 @@ Firstly, the dataset is imported and processed using default preprocessing setti
 
 <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/First%20approach.PNG" alt="Model without optimization" width=400 height=350/> <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Second%20Approach.PNG" alt="Model after optimization" width=400 height=350/>
 
-R2 has increased by 10.8%.
+R2 suggests how well our model fits the data as it provides us with the distance between the observed value and the fitted value. We can see here that, after feature engineering the value of R2 has increased by 10.8%.
 
 ### Residual plots before and after feature engineering
 
 <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/First%20plot.PNG" alt="Model without optimization" width=450 height=350/> <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Second%20plot.PNG" alt="Model after optimization" width=450 height=350/>
 
-We can observe the impact of transformations and feature engineering on the heteroskedasticity of model.
+We can observe the impact of transformations and feature engineering on the heteroskedasticity of model. Characteristics of a good residual plot involves featuring of high density of points close to the origin and a low density of points far away. Also we do not notice any patterns in the value of the residuals as we move along the x-axis. This satisfies our premise that regression model residuals are regularly distributed and independent.
 
 ## Web Application
 Frontend is created using HTML and CSS and backend developed using Flask in Python and the app is deployed using Heruku.
