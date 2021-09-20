@@ -7,4 +7,5 @@ Firstly, the dataset is imported and processed using default preprocessing setti
 
 ### Before and After Optimization
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of model without optimization](https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/First%20approach.PNG)
+
