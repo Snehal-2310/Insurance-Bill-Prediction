@@ -7,6 +7,8 @@ Firstly, the dataset is imported and processed using default preprocessing setti
 
 ### Before and After Optimization
 
-<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/First%20approach.PNG" alt="drawing" width=500/> <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Second%20Approach.PNG" alt="drawing" width=500/>
+<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/First%20approach.PNG" alt="drawing" width=450 height=350/> <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Second%20Approach.PNG" alt="drawing" width=450 height=350/>
+R2 has increased by 10.8%.
+
 
 
