@@ -6,7 +6,7 @@ Training and model validation are done in the Jupyter Notebook. PyCaret is used 
 Firstly, the dataset is imported and processed using default preprocessing settings in Pycaret that involves missing value imputation, categorical encoding etc. Then, additional preprocessing tasks such as scaling and normalization, automatic feature engineering and binning continuous data into intervals applied. 
 
 ## Methodology
-<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Methodology.jpg" alt="Methodolgy"/> 
+<img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Methodology.jpg" align="centre" alt="Methodolgy" width=400 height=600/> 
 
 ### Before and After Optimization
 
