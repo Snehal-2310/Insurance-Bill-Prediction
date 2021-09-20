@@ -11,9 +11,11 @@ Firstly, the dataset is imported and processed using default preprocessing setti
 
 R2 has increased by 10.8%.
 
-### Residual plots before and after tuning
+### Residual plots before and after feature engineering
 
 <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/First%20plot.PNG" alt="Model without optimization" width=450 height=350/> <img src="https://github.com/Snehal-2310/Insurance-Bill-Prediction/blob/main/Images/Second%20plot.PNG" alt="Model after optimization" width=450 height=350/>
+
+We can observe the impact of transformations and feature engineering on the heteroskedasticity of model.
 
 
 
